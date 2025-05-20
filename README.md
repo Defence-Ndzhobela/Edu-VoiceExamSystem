@@ -1,5 +1,6 @@
 This project is a voice-enabled web application designed to help students — especially those with disabilities — write tests or exams using voice commands. The system supports both voice instructions and spoken answers, then automatically grades the test and submits results to the lecturer.
 
+
 🚀 Features
 🎤 Voice Command Interface: Control the system using speech — from navigating to starting or submitting an exam.
 
@@ -11,6 +12,7 @@ This project is a voice-enabled web application designed to help students — es
 
 ♿ Accessibility First: Especially designed to support students with disabilities in taking assessments independently.
 
+
 💡 Purpose
 This project was built to:
 
@@ -19,6 +21,8 @@ Provide an inclusive platform for learners who are unable to use traditional inp
 Simplify the marking process for lecturers by using auto-grading technology.
 
 Enable a hands-free testing experience for convenience and accessibility.
+
+
 
 🛠️ Technologies Used
 HTML, CSS, JavaScript (Frontend)
